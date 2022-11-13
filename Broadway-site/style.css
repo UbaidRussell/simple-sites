@@ -7,6 +7,7 @@ html, body {
     background-color: #333333;
     position:fixed;
     width:100%;
+    z-index: 5;/* Moved our header which features our nav-bar from behind the page.*/
   }
   
   nav {
@@ -20,10 +21,13 @@ html, body {
     font-weight: 600;
     font-size: 12px;
     display: inline-block;
+    width:80px;/*Puts space inbetween the elements on our nav bar.*/
   }
   
   main {
     text-align: center;
+    position:relative;/*Made main relative to our Header?*/
+    top:80px;/*pushed main down from the roof of our page*/
   }
   
   main h1 {

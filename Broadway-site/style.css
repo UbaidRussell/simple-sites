@@ -100,6 +100,7 @@ html, body {
   .supporting .col {
     font-family: 'Raleway', sans-serif;
     text-align: center;
+    display: inline-block;/*Makes Design and Develop elements horizontal*/
   }
   
   .supporting img {

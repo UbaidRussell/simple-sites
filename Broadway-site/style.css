@@ -101,6 +101,8 @@ html, body {
     font-family: 'Raleway', sans-serif;
     text-align: center;
     display: inline-block;/*Makes Design and Develop elements horizontal*/
+    width:200px;/*Allows us to see the changes of line 103*/
+    height:200px;/*Allows us to see the changes of line 103*/
   }
   
   .supporting img {

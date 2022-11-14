@@ -32,3 +32,14 @@ header{
     color: blue;
     font-weight: bold;
 }
+.sub-heading-3{
+    background-color:skyblue ;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+}
+.painting span{
+    color: blue;
+    font-weight:bold;
+}

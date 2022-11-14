@@ -20,3 +20,15 @@ header{
     color: blue;
     font-weight:bold;
 }
+.sub-heading-2{
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    width:100%;   
+}
+.frames span{
+    color: blue;
+    font-weight: bold;
+}

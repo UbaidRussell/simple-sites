@@ -1,9 +1,8 @@
 body{
-
+    font-family: Arial, Helvetica, sans-serif;
 }
 header{
     background-image: url(images/pattern.jpeg);
-    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-size: 75px;
     font-weight: bold;
@@ -16,4 +15,8 @@ header{
     font-weight: bold;
     color: white;
     width:100%;
+}
+.hacksaw span{
+    color: blue;
+    font-weight:bold;
 }

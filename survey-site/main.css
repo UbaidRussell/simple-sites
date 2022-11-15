@@ -4,8 +4,8 @@ body {
   }
   
   header {
-    background-color: #466995;
-    border-bottom: 1px solid #466995;
+    background-color: #557153;
+    border-bottom: 1px solid #7D8F69;
     position: fixed;
     width: 100%;
     z-index: 10;
@@ -32,7 +32,7 @@ body {
   }
   
   h1 {
-    color: #466995;
+    color: #E6E5A3;
     font-family: 'Oswald', sans-serif;
     font-size: 32px;
     font-weight: 300;
@@ -74,13 +74,13 @@ body {
   }
   
   footer {
-    background-color: #DBE9EE;
+    background-color: #557153;
     text-align: center;
     height: 100px;
   }
   
   .welcome {
-    background-color: #DBE9EE;
+    background-color: #557153;
     box-sizing: border-box;
     padding: 40px;
     text-align: center;
@@ -104,4 +104,7 @@ body {
   .answer:hover {
     background: #C0D6DF;
     color: #FFF;
+  }
+  footer h3{
+    color: #E6E5A3;
   }

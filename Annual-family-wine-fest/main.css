@@ -48,13 +48,13 @@ body {
   }
   
   footer {
-    margin-top: 50px;
+    margin-top: 250px;
     text-align: center;
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 5px;
     background-color: #242f44;
-    z-index: 5;
+    z-index: 3;
   }
   footer h3 {
     display: inline-block;

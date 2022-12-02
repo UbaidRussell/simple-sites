@@ -3,7 +3,9 @@ body {
     background-color: white;
     font-family: 'Raleway', sans-serif;
   }
-  
+  .byline:hover{
+    color: red;
+  }
   .navigation ul {
     margin: 0;
     padding: 0;

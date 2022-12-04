@@ -3,6 +3,16 @@ body{
 }
 h1{
     background-color: white;
-    text-align:center;
-    float:left;
+    position: relative;
+    width: 25%;
+}
+
+.breadcrumb li{
+    position: relative;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.breadcrumb a{
+    color: whitesmoke;
+    text-decoration: none;
 }

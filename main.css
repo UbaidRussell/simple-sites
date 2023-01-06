@@ -6,6 +6,9 @@ h1{
     position: relative;
     min-width: 50px;
 }
+h2{
+    background-color: whitesmoke;
+}
 
 .breadcrumb li{
     position: relative;
@@ -16,4 +19,14 @@ h1{
 .breadcrumb a{
     color: whitesmoke;
     text-decoration: none;
+}
+.sites{
+    display: grid;
+}
+.item{
+    width:350px;
+    border: 10px solid whitesmoke;
+}
+img{
+    width: 300px;
 }

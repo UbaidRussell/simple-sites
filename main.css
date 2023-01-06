@@ -33,3 +33,10 @@ img{
     width: 300px;
     margin-left: 20px;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: #800020;
+}

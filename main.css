@@ -23,7 +23,7 @@ h2{
 }
 .sites{
     display: grid;
-    grid-template-columns: repeat(3, 450px);
+    grid-template-columns: repeat(4, 450px);
 }
 .item{
     width:350px;

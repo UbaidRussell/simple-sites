@@ -23,13 +23,15 @@ h2{
 }
 .sites{
     display: grid;
-    grid-template-columns: repeat(4, 450px);
+    grid-template-rows: repeat(4, 450px);
+    justify-items: center;
 }
 .item{
     width:350px;
-    border: 10px solid whitesmoke;
+    border: 10px solid #800020;
     border-radius: 10px;
     padding: 10px;
+    margin: 5px 5px 5px 5px;
 }
 img{
     width: 300px;
